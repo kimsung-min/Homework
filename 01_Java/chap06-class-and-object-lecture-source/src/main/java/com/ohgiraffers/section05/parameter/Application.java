@@ -2,7 +2,8 @@ package com.ohgiraffers.section05.parameter;
 
 import com.ohgiraffers.section06.finalkeyword.FinalFieldTest;
 
-public class Application {
+public class
+Application {
 
     public static void main(String[] args) {
         

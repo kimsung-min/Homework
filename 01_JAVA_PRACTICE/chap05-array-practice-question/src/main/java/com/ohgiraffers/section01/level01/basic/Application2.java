@@ -41,6 +41,7 @@ public class Application2 {
             System.out.println(arry[i]);
         }else {
             System.out.println("준비된 과일이 없습니다");
+            //test
         }
     }
 }

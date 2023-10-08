@@ -1,6 +1,7 @@
 package com.ohgiraffers.section01.user_type;
 
-public class Application {
+public class
+Application {
 
     public static void main(String[] args) {
 
@@ -19,10 +20,11 @@ public class Application {
         System.out.println("name = " + name);
         System.out.println("age = " + age);
         System.out.println("gender = " + gender);
-        for(String h : hobby) {
+        for(String i: hobby) {
 
-            System.out.print(h + " ");
+            System.out.print(i + " ");
         }
+        System.out.println();
         System.out.println();
 
         /*

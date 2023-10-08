@@ -20,7 +20,7 @@ public class Application {
         MemberDTO member = new MemberDTO();
         member.setNumber(1);
         member.setName("홍길동");
-        member.setAge(20);
+        member.setAge(200);
         member.setGender('남');
         member.setHeight(180.5);
         member.setWeight(80.0);

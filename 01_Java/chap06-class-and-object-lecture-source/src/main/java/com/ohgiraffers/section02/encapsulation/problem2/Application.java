@@ -1,8 +1,12 @@
 package com.ohgiraffers.section02.encapsulation.problem2;
 
+import java.util.Scanner;
+
 public class Application {
 
     public static void main(String[] args) {
+
+
 
         /* 필드의 이름이나 자료형을 변경할 때 사용한 쪽 모두 코드를 수정해야 하는 경우가 생긴다. */
 
